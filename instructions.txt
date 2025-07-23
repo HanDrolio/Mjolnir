@@ -1,0 +1,2 @@
+# README
+# source ~/test3/Mjolnir/cosmos_venv/bin/activate
